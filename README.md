@@ -47,8 +47,7 @@ The tool uses only Python standard-library modules:
 Clone the repository:
 
 ```bash
-git clone https://github.com/HarryStrapper07/<YOUR-REPO>.git
-cd <YOUR-REPO>
+https://github.com/HarryStrapper07/crypto-decoder-incoder
 ```
 
 No `pip install` is required.
